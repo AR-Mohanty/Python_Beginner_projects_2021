@@ -48,6 +48,6 @@ else:
             n = int(input("Enter your next choice of numbers: "))
 
     if n == num:
-        print("you have become master mind!")
+        print("you've become master mind!")
         print(f"It's took you only {tries} tries!")
 
