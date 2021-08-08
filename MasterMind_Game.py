@@ -49,5 +49,5 @@ else:
 
     if n == num:
         print("you have become master mind!")
-        print(f"Its took you only {tries} tries!")
+        print(f"It's took you only {tries} tries!")
 
